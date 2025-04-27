@@ -70,6 +70,10 @@ Disadvantages
 •	It can be inefficient for searching for keys that are not comparable, such as strings or objects. In this case, you might need to define a custom comparison function or use a different data structure.
 •	Requires additional logic to keep the tree balance.
 
+Recommendation
+
+Vectors are good for small data sets but not efficient for search or sorting at scale.
+Hash Tables provide fast access but lack built in order. Best if frequent look ups are needed but not ideal for sorted outputs without extra steps. Binary search tree is ideal for the natural created order in efficient look up. I would recommend the Binary Search Tree for ABCU final look up. It automatically sorts out our output, its efficient with look up and insertion which is based off performance when compared to Hash Table, Binary Search Tree maintains it automatically and compared to vector it is a lot more efficient. It has clean traversal, which makes it useful for ABCU course application
 
 
 
