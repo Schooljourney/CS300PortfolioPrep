@@ -106,6 +106,7 @@ April 19, 2025
 
 1.What was the problem you were solving in the projects for this course?
 The problem that I was solving in the projects for this course were related to implementing and using data structures such as Linked List, Hash Tables and Binary Search. I created a program for auctions using a Linked List and used Hash Table to store and retrieve data to the user. I also implemented Binary Search to do a quick sort on the data.
+
 2.How did you approach the problem? Consider why data structures are important to understand.
 I approached the problem by :
 •	First identify the problem, this is done by distinctly defining the problem and its desired outcome.
@@ -115,10 +116,13 @@ I approached the problem by :
 •	Optimize, analyze the complexity of the solutions, and consider ways to improve it.
 •	Test and refine, test the solution, and refine it as much as needed based on the results. (Geeks for Geeks, 2024).
 It is important to understand data structure because they can offer many benefits to the computer programs, such as improving the efficiency and speed of the algorithms. When the correct data structure is selected for the data and operations it reduces the time and space complexity of the code, making it run faster and use less memory.  Also, the correct data structure  can enhance the readability and maintainability of the code by utilizing clear and consistent structures. This will prevent errors and bugs while making the code easier to understand and modify (Geeks for Geeks, 2024)
+
 3.How did you overcome any roadblocks you encountered while going through the activities or project?
 When I encountered roadblocks, while going through the activities or project I did my research on scholarly articles that have information on each topic. I reviewed the zybooks, for example zybooks helped me tremendously on quick sort and selection sort.  It provided well detailed examples. I also contacted the tutors that the school offers us.  The tutors helped me when I encountered roadblocks such as when executing the code , sometimes the error was due to me having too many curly braces. They were able to quickly see that and helped me to correct them.
+
 4.How has your work on this project expanded your approach to designing software and developing programs?
 Working  on this project expanded my  approach to designing software and developing program by introducing me to Big O notation. Big O Notation is a way to describe how the time or space needed by an algorithm grows as the size of the input increases. When it is said that a function f(n) is O(g(n)), it means that f(n) will not grow faster than a certain multiple of another function g(n) once the input size is large enough. In other words, f(n) is bounded by g(n) scaled up by some constant value for large inputs (Research Gate, 2022).  In Binary Search I used Big O for look up. It helps me to decide which of the algorithm to use by telling me which one is faster. It measures the execution time of the algorithm. By applying Big O I prioritized the code made it efficient and reduced the execution time.
+
 5.How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
 My work on these projects has improved my ability to describe the purpose of codes, techniques implemented to solve problem, challenges encountered, and approaches to overcome the challenges. I now can write pseudocodes with clear step by step logic such as outlining my Binary Search and handling  duplicate values before writing the actual code.
 My algorithm specifications functioned in all cases. I was able to make sure that data structure specifications were met completely and functioned in all cases. My code annotations explained and facilitated navigation of the code. Both algorithms and data structures were implemented in such a way that they can be reused in other programs. I was able to make my codes follow proper syntax and demonstrate consistent whitespace to reduce debugging time, and variable naming.
